@@ -1,4 +1,4 @@
-# **Car Fuel Consumption Part II - Analysis and Predictions 🚗📈🔮**
+# **Car Fuel Consumption Part II - Predictions 🚗📈🔮**
 
 # (In working progress...)
 
