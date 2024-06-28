@@ -8,6 +8,9 @@ Now the turn for this is **predictions with Machine Learning,** regarding Car Fu
 
 ![Let's Get the Party Started](https://media.giphy.com/media/lNGyr4FWfRO8S8LARn/giphy.gif)
 
+Before continuing into this repository, I was already working in Power BI until reaching the point where it can be seen in the following image:
+
+![img_1](https://github.com/AndrewBavuels/Sales-and-Business-Report-with-Microsoft-Power-BI/blob/main/images/1.png)
 
 ## 1. Project description 👇
  
